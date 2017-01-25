@@ -1,0 +1,8 @@
+In the lab assignment 1
+1)Created a UML Class diagram for the Chat application
+
+2)Created a board, 3 Milestones, 6 issues and the analytics graph.
+
+3)Created a wiki page for your lab assignment through 
+Github. 
+
