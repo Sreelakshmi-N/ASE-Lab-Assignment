@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html >
+<head>
+    <meta charset="UTF-8">
+    <title>Calm breeze login screen</title>
+
+
+
+    <link rel="stylesheet" href="css/style.css">
+
+
+</head>
+
+<body background="m.png">
+<div class="wrapper">
+    <div class="container">
+        <h1>Register</h1>
+
+        <form class="form" name="regform">
+            <input type="email" name="e" placeholder="Email">
+            <input type="text" name="u" placeholder="Username">
+            <input type="password" name="p" placeholder="Password">
+            <button type="submit" id="login-button" onclick="redirect()">Register</button>
+        </form>
+    </div>
+    <script>
+        function validate() {
+            if (localStorage) {
+
+
+
+                form = document.forms["regform"];
+
+                var un = form["u"].value;
+
+                var pn = form["p"].value;
+
+                localStorage.setItem('unn', un);
+
+                localStorage.setItem('pnn', pn);
+
+
+
+                return true;
+
+            }
+
+        }
+
+        function redirect()
+
+        {
+
+            window.location.assign("index.html");
+            validate();
+
+        }
+    </script>
+    <ul class="bg-bubbles">
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
+</div>
+<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+
+<script src="js/index.js"></script>
+
+</body>
+</html>

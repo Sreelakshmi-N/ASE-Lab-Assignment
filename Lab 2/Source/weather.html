@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function geturl()
+    {
+        var xmlhttp = new XMLHttpRequest();
+      //  var API_KEY = '3307381-12f37b22f5554edc5caf9f908';
+       // var imgEntered = document.getElementById("imgName").value;
+        var url = "http://api.openweathermap.org/data/2.5/weather?q=London,uk&appid=550f1f4cad9451366b5baa77142139df&units=metric";
+//var url = "https://pixabay.com/api/?key=3307381-12f37b22f5554edc5caf9f908&q=mahatma+gandhi&image_type=photo&pretty=true";
+        xmlhttp.onreadystatechange=function() {
+            if (this.readyState == 4 && this.status == 200) {
+                myFunction(this.responseText);
+            }
+        }
+        xmlhttp.open("GET", url, true);
+        xmlhttp.send();
+        function myFunction(response) {
+            var obj = JSON.parse(response);
+
+
+//   var i;
+//obj = JSON.parse("respo");
+           // document.getElementById("my_result").innerHTML = '<img src="'+obj.hits[1].webformatURL+'"/>';
+/*             var temperature = json.main.temp;
+
+                 temperature = Math.round(((data.main.temp) - 273.15));
+
+                 $("#temp").html(temperature + "C");
+
+               });
+        })();*/
+           document.getElementById("x").value = obj.main.temp;
+  //  alert("Temperature " + "\"" + .innerHTML + "\".");
+}        /*if(  document.getElementById("demo").innerHTML ="\0")
+         {
+         document.write("no results found");
+         }*/
+    }
+</script>
+Temperature
+<div id="x"></div>
+</body>
+
+</html>
