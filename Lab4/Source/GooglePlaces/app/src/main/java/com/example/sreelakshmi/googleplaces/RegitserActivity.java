@@ -1,4 +1,4 @@
-package com.example.ramgopal.googleplaces;
+package com.example.sreelakshmi.googleplaces;
 
 import android.content.Intent;
 import android.content.SharedPreferences;

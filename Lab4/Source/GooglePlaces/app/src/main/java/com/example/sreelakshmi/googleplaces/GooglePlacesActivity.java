@@ -1,4 +1,4 @@
-package com.example.ramgopal.googleplaces;
+package com.example.sreelakshmi.googleplaces;
 
 import android.app.Activity;
 import android.content.Intent;
