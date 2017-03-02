@@ -9,3 +9,5 @@ Lab Assignment3: https://github.com/Sreelakshmi-N/ASE-Lab-Assignment/wiki/ASE-LA
 Lab Assignment4: https://github.com/Sreelakshmi-N/ASE-Lab-Assignment/wiki/ASE-LAB-Assignment-4
 
 Lab Assignment5: https://github.com/Sreelakshmi-N/ASE-Lab-Assignment/wiki/ASE-LAB-Assignment-5
+
+Lab Assignment 6: https://github.com/Sreelakshmi-N/ASE-Lab-Assignment/wiki/ASE-LAB-Assignment-6
