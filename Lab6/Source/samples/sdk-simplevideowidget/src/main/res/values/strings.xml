@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <string name="title">Great white Sharks</string>
+  <string name="subtitle">Great white sharks live in almost all coastal and offshore waters which have water temperature between 12 and 24 °C (54 and 75 °F)</string>
+  <string name="paragraph1">The white shark is principally an epipelagic (living in the upper part of the water column) dweller of neritic (nearshore) waters.
+
+\n\nThe 360 video below shows white Shark in the offshore waters.
+  </string>
+
+  <string name="paragraph2">The great white is at the top of the food chain and has few threats in the ocean.
+      Only orcas and larger sharks can pose a risk. The only other risk to the great white shark is human interaction.
+      They are sometimes caught by accident in fishing nets or intentionally sought out by sport fisherman.
+      Their jaws and fins are sold for considerable amounts of money.
+
+\n\nNot much is known about the mating habits of great white sharks. What is known is that after mating the
+      female develops several eggs which hatch in her womb. The newly-hatched shark pups feed on unfertilized eggs in the
+      womb as they develop before being born.
+
+\n\nIn general, the mother gives birth to a litter of two to ten pups, each of which average 1.5 m (5 ft.) in length.
+      Male great whites reach maturity at 9-10 years of age. Females mature even later, between 14 and 16 years of age.
+      Female sharks are thought to give birth once every couple years, but even that is uncertain.
+  </string>
+
+  <string name="source">Source &lt;<a href="https://en.wikipedia.org/wiki/Shark"/>Wikipedia</string>
+</resources>
