@@ -1,4 +1,4 @@
-package org.ymegnae.android.wearmapssample.common;
+package org.ymegnae.android.Google Maps.common;
 
 import com.google.gson.annotations.SerializedName;
 

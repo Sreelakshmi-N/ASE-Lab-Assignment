@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="org.ymegnae.android.wearmapssample" >
+    package="org.ymegnae.android.Google Maps" >
 
     <uses-permission android:name="android.permission.INTERNET"/>
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
@@ -19,7 +19,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDGq8QApUmLTObyo3QgZrZRh_zg0uQTmQg"/>
+            android:value="AIzaSyB2H_2ITafI9JxJMet0NMO17QJ0msmObow"/>
 
         <activity
             android:name=".MainActivity"

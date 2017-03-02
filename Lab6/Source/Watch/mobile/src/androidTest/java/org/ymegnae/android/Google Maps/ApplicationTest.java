@@ -1,4 +1,4 @@
-package org.ymegnae.android.wearmapssample;
+package org.ymegnae.android.Google Maps;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
