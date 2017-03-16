@@ -13,3 +13,5 @@ Lab Assignment5: https://github.com/Sreelakshmi-N/ASE-Lab-Assignment/wiki/ASE-LA
 Lab Assignment 6: https://github.com/Sreelakshmi-N/ASE-Lab-Assignment/wiki/ASE-LAB-Assignment-6
 
 Lab Assignment 7: https://github.com/Sreelakshmi-N/ASE-Lab-Assignment/wiki/ASE-LAB-Assignment-7
+
+Lab Assignment 8: https://github.com/Sreelakshmi-N/ASE-Lab-Assignment/wiki/ASE-LAB-Assignment-8
